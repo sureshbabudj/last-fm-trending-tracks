@@ -18,7 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/sureshbabudhanaraj)
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/sureshbabudhanaraj]]
 
 
 
