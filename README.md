@@ -189,5 +189,5 @@ Project Link: [https://github.com/sureshbabudj/last-fm-trending-tracks](https://
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sureshbabudhanaraj
