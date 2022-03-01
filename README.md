@@ -18,7 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/sureshbabudhanaraj]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -190,3 +190,5 @@ Project Link: [https://github.com/sureshbabudj/last-fm-trending-tracks](https://
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+[linkedin-url]: https://www.linkedin.com/in/sureshbabudhanaraj
