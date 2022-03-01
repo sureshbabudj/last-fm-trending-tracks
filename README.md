@@ -18,7 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/sureshbabudhanaraj]
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/sureshbabudhanaraj)
 
 
 
@@ -34,7 +34,11 @@
   <p align="center">
     This is a simple app created to showcase the trending tracks from last.fm
     <br />
-    <a href="https://www.last.fm/api"><strong>Explore the docs in last.fm »</strong></a>
+    <a href="https://www.last.fm/api" target="_blank"><strong>Explore the docs in last.fm »</strong></a>
+    <br />
+    <br />
+     <a href="https://sureshbabudj.github.io/last-fm-trending-tracks/" target="_blank"><strong>view App in action »</strong></a>
+     <br />
     <br />
   </p>
 </div>
